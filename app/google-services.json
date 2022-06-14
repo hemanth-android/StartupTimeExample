@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "791059423204",
+    "project_id": "plaza-2a863",
+    "storage_bucket": "plaza-2a863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791059423204:android:fe3b5004455bf51e28b1f1",
+        "android_client_info": {
+          "package_name": "com.rigiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791059423204-d7thc2fgop9j7nokqoh1tf4pcpssdl5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rigiapp",
+            "certificate_hash": "afca1c2631481f05f31cd32f44d62336e3e5d356"
+          }
+        },
+        {
+          "client_id": "791059423204-n2jhkmrl150e9j202fmasobgb687oq6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rigiapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "791059423204-os7p62ab3ctc7o811r6s6imvff71h98j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLdBQNKhPRKyHGn917oR1fuFChXP0QOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791059423204-os7p62ab3ctc7o811r6s6imvff71h98j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791059423204-g1i246a6ptko79hqtaoj6fo6ammljmp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.PlazaAppReact"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
